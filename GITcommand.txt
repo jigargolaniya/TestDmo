@@ -1,0 +1,16 @@
+
+
+git init
+git remote add origin "githpath" add link
+git clone "gitpath"              cloning
+git remote -v                    check remote
+git branch -v                    check branch  
+cd test                            
+git branch -v
+git status 
+git add .                        Dot mins all files change or you can give particular folder name too.
+git commit -m "Init"
+git push origin master
+
+
+
